@@ -9,7 +9,7 @@ module.exports = class HelpCommand extends BaseCommand {
   run(client, message, args) {
     const helpEmbed = new Discord.MessageEmbed()
     .setColor("#FF4500")
-    .addField("Commands",`You can view commands at [Link](https://guide.dev-bot.xyz/commands)`, false);
+    .addField("Commands",`You can view commands at [Link](https://github.com/Jacob22092/RandomMemes-BOT)`, false);
       message.channel.send(helpEmbed);
   }
 }
