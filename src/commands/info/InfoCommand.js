@@ -20,8 +20,8 @@ module.exports = class InfoCommand extends BaseCommand {
     .addField(`Users`, `${client.users.cache.size}`, true)
     .addField(`Mem Usage`, `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)} MB`, true)
     .addField(`Invite`, `[Invite Bot](https://discord.com/oauth2/authorize?client_id=745726041041010708&scope=bot&permissions=3080)`, true)
-    .addField(`GitHub`, `[Source](https://discord.com/oauth2/authorize?client_id=745726041041010708&scope=bot&permissions=3080)`, true)
-    .addField(`Vote`, `[Vote](https://discord.com/oauth2/authorize?client_id=745726041041010708&scope=bot&permissions=3080)`, true)
+    .addField(`GitHub`, `[Source](https://github.com/Jacob22092/RandomMemes-BOT)`, true)
+    .addField(`Vote`, `[Vote]()`, true)
     .setFooter(`Uptime: ${duration}`);
       message.channel.send(infoEmbed);
   }
