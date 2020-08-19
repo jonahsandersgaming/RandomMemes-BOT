@@ -23,5 +23,10 @@ How to Download?
 ```
 git clone https://github.com/Jacob22092/RandomMemes-BOT
 ```
+Config file(.env)
+```
+DISCORD_BOT_TOKEN=YOUR-TOKEN
+DISCORD_BOT_PREFIX=YOUR-PREFIX
+```
 # Required
 - NodeJS: https://nodejs.org/en/
