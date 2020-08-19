@@ -6,5 +6,6 @@ module.exports = class ReadyEvent extends BaseEvent {
   }
   async run (client) {
     console.log(client.user.tag + ' has logged in.');
+    client.user.setActivity('rm!help', { type: 'WATCHING' });
   }
 }
