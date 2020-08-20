@@ -35,3 +35,4 @@ DISCORD_BOT_PREFIX=YOUR-PREFIX
 - NodeJS: https://nodejs.org/en/
 # Free hosting:
 - Vercel: https://vercel.com
+- Replit: https://repl.it
