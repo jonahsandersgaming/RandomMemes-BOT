@@ -18,7 +18,8 @@
 
 How to start bot?
 ```
-cd RandomMemes-BOT
+node ./src/bot.js
+or
 npm run start
 ```
 How to Download?
