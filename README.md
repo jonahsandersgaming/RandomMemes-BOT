@@ -7,6 +7,7 @@
 - Library: DiscordJS 12
 - Creator: Jacob22092 (discord: Prezes#0930)
 - Invite: https://discord.com/oauth2/authorize?client_id=745726041041010708&scope=bot&permissions=3112
+- Vote: https://top.gg/bot/745726041041010708
 
 # Commands:
 - rm!help - Commands list.
