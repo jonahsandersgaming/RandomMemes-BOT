@@ -32,3 +32,5 @@ DISCORD_BOT_PREFIX=YOUR-PREFIX
 ```
 # Required
 - NodeJS: https://nodejs.org/en/
+# Free hosting:
+- Vercel: https://vercel.com
