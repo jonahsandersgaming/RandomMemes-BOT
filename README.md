@@ -37,3 +37,6 @@ DISCORD_BOT_PREFIX=YOUR-PREFIX
 # Free hosting:
 - Vercel: https://vercel.com
 - Replit: https://repl.it
+
+## Changelogs:
+- 0.2 + Ping Command | rm!ping
