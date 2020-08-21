@@ -14,6 +14,7 @@
 - rm!help - Commands list.
 - rm!memes - Bot send random meme form reddit.
 - rm!info - Status/Uptime/Library/Create/Stats.
+- rm!ping - Bot Ping.
 
 # Open source section:
 
