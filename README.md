@@ -38,5 +38,5 @@ DISCORD_BOT_PREFIX=YOUR-PREFIX
 - Vercel: https://vercel.com
 - Replit: https://repl.it
 
-## Changelogs:
+# Changelogs:
 - 0.2 + Ping Command | rm!ping
