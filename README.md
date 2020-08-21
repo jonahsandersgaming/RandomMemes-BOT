@@ -40,3 +40,4 @@ DISCORD_BOT_PREFIX=YOUR-PREFIX
 
 # Changelogs:
 - 0.2 + Ping Command | rm!ping
+
