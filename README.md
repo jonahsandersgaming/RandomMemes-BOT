@@ -41,5 +41,5 @@ DISCORD_BOT_PREFIX=YOUR-PREFIX
 - Replit: https://repl.it
 
 # Changelogs:
-- 0.2 + Ping Command | rm!ping
+- 0.2 + Ping Command | rm!ping.
 
