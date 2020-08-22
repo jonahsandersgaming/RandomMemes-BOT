@@ -9,6 +9,7 @@
 - Invite: https://discord.com/oauth2/authorize?client_id=745726041041010708&scope=bot&permissions=3112
 - Vote: https://top.gg/bot/745726041041010708
 - Status: https://stats.uptimerobot.com/vjRx8TWryZ
+- Support: https://discord.gg/dNfkeGy
 
 # Commands:
 - rm!help - Commands list.
